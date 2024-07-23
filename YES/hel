@@ -1,0 +1,2 @@
+def toxic(x, y):
+    x+y
